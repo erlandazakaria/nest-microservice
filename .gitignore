@@ -1,0 +1,11 @@
+/api-gateway/dist
+/api-gateway/node_modules
+
+/billing/dist
+/billing/node_modules
+
+/product/dist
+/product/node_modules
+
+/user/dist
+/user/node_modules
